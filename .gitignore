@@ -1,0 +1,8 @@
+crawler
+--library=pthread
+.goutputstream-*
+a.out
+*.exe
+*.o
+.vscode/
+.DS_Store
