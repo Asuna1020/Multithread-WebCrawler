@@ -1,4 +1,4 @@
-# Multithreaded Web Crawler (C++)
+# Multithread WebCrawler (C++)
 
 這是一個基於 C++ 實作的高效能網路爬蟲專案。本專案採用 **Producer-Consumer 模型**，並結合 `pthread` 與 `libcurl` 函式庫，實現了具備執行緒安全（Thread-safe）任務分發與 URL 去重功能的併發爬取系統。
 
